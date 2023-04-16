@@ -1,16 +1,31 @@
-### Hi there 👋
+<b>I'm a C# Developer with experience in Full Stack Development, GIS Analysis, and Education.</b> 
 
-<!--
-**williambastian/williambastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love code and pushing myself to learn new skills! <b> I bring an energetic, friendly, and dedicated presence to any team. </b>
 
-Here are some ideas to get you started:
+## → My Skillset
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I do -
+
+* ☑️ Execute - whatever the project, I find a way to get it done
+* 🔧 Build Skills - I am always growing my knowledge base to provide greater value
+* 👔 See the big picture - My daily goals always feed into what grows your business 
+* 🗣️ Communicate - clear and open dialogue with any and all stakeholders
+ 
+Additionally -
+
+* 🌞 I am very friendly and approachable! 
+* 🤠 I am a US Citizen currently living in DFW.
+* 🗺️ Remote only
+* 🤗 Send me an email; let's chat! - william.l.bastian@gmail.com
+
+## → Other Links
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/william-bastian-technology/)
+[![Website](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://wbastian.com)
+
+
+
