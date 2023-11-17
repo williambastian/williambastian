@@ -19,8 +19,7 @@ What I do -
 Additionally -
 
 * 🌞 I am very friendly and approachable! 
-* 🤠 I am a US Citizen currently living in DFW.
-* 🗺️ Open to Remote, or roles local to DFW
+
 * 🤗 Send me an email; let's chat! - william.l.bastian@gmail.com
 
 ## → Other Links
